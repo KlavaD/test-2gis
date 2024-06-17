@@ -1,0 +1,1 @@
+URL = "https://regions-test.2gis.com"

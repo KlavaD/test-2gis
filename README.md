@@ -1,6 +1,6 @@
 Для запуска тестов клонируйте репозиторий:
 ```
-git clone 
+git clone https://github.com/KlavaD/test-2gis.git
 ```
 
 активируйте виртуальное окружение, установите зависимости из файла requirements.txt
